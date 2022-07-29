@@ -9,8 +9,9 @@
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NODE, GIT, REACT
 - 👯 I’m looking to collaborate in the most varied types of projects
-- 📫 How to reach me: @andreviapiana
 - :construction_worker_man: Study: I'm an Architect looking for new knowledge and new opportunities
+- 📫 How to reach me: @andreviapiana
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreviapiana/)
 
 **Languages and tools:**
 

@@ -24,4 +24,4 @@
 <img align="left" height="20" src="https://user-images.githubusercontent.com/106932234/181757182-0d18d9b8-e3a5-4997-a832-a2f3f6dc7bb8.png">
 <img height="20" src="https://user-images.githubusercontent.com/106932234/181757796-1b8f59ee-634f-4afa-a901-6fdbfc7b26a1.png">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreviapiana&layout=compact)](https://github.com/andreviapiana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreviapiana&theme=github_dark&layout=compact)](https://github.com/andreviapiana/github-readme-stats)

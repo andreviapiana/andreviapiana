@@ -16,5 +16,5 @@
 
 **Languages and tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,heroku,netlify,nodejs,prisma,react,sqlite,tailwind,ts,vite,)]
+(https://skillicons.dev/icons?i=js,html,css,firebase,git,github,heroku,netlify,nodejs,prisma,react,sqlite,tailwind,ts,vite,)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreviapiana&theme=github_dark&layout=compact)](https://github.com/andreviapiana/github-readme-stats)

@@ -25,3 +25,6 @@
 <img height="20" src="https://user-images.githubusercontent.com/106932234/181757796-1b8f59ee-634f-4afa-a901-6fdbfc7b26a1.png">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreviapiana&theme=github_dark&layout=compact)](https://github.com/andreviapiana/github-readme-stats)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,firebase,git,github,heroku,netlify,nodejs,prisma,react,sqlite,tailwind,ts,vite,)](https://skillicons.dev)

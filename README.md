@@ -13,9 +13,11 @@
  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreviapiana/)
 
+___
 
 **🚀 Acesse aqui o meu [Portfolio](https://andreviapiana.netlify.app/) 🚀**
 
+___
 
 **Languages and tools:**
 

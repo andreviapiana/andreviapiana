@@ -15,7 +15,7 @@
 
 ___
 
-**🚀 Acesse aqui o meu [Portfolio](https://andreviapiana.netlify.app/) 🚀**
+**🚀 Access my [Portfolio](https://andreviapiana.netlify.app/) 🚀**
 
 ___
 
